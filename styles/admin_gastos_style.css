@@ -1,0 +1,25 @@
+.usr {
+  font-family: 'Martel Sans', sans-serif;
+  background-color: #272623;
+  color: white;
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-right: 100%;
+  float: left;
+}
+
+.ingresos {
+  padding-left: 5%;
+}
+
+.salir {
+  background-color: #cc3914;
+  padding-left: 5%;
+  border-radius: 5%;
+}
+
+.lateral {
+  font-family: 'Martel', serif;
+  background-color: rgb(203, 202, 204);
+  float: left;
+}
