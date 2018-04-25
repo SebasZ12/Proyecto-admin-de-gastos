@@ -88,6 +88,13 @@
 .container .info span .fa {
   color: #EF3B3A;
 }
+.check{
+  display: inline-block;
+  margin: 1em;
+}
+.check h3{
+  font-size: 1em;
+}
 body {
   background: blue; /* fallback for old browsers */
   background: -webkit-linear-gradient(right, blue, #9fc2f9);
